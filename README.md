@@ -42,25 +42,25 @@ PPI data were downloaded from four databases: BioGRID (version 3.4.131), HI-II-1
 
 PhenoRank reference
 ----------
-Cornish, A.J., David, A. and Sternberg M.J.E. **PhenoRank: reducing study bias in gene prioritisation through simulation**. Submitted. 
+Cornish, A.J., David, A. and Sternberg M.J.E. PhenoRank: reducing study bias in gene prioritisation through simulation. Submitted. 
 
 
 
 References for sources of data used in PhenoRank
 ----------
-- Amberger, J. S. et al. (2015) **OMIM.org: Online Mendelian Inheritance in Man (OMIM), an online catalog of human genes and genetic disorders**. Nucleic Acids Res., 43, 789–798.
-- Bult, C. J. et al. (2016) **Mouse genome database 2016**. Nucleic Acids Res., 44, D840–D847.
-- Chatr-Aryamontri, A. et al. (2015) **The BioGRID interaction database: 2015 update**. Nucleic Acids Res., 43, D470–D478.
-- Das, J. and Yu, H. (2012) **HINT: High-quality protein interactomes and their applications in understanding human disease**. BMC Syst. Biol., 6(1), 92.
-- Hoehndorf, R. et al. (2015) **Analysis of the human diseasome reveals phenotype modules across common, genetic, and infectious diseases**. Sci. Rep., 5, 10888.
-- Keshava Prasad, T. S. et al. (2009) **Human Protein Reference Database-2009 update**. Nucleic Acids Res., 37, D767–D772.
-- Kibbe, W. A. et al. (2015) **Disease Ontology 2015 update: an expanded and updated database of human diseases for linking biomedical knowledge through disease data**. Nucleic Acids Res., 43, D1071–D1078.
-- Köhler, S. et al. (2014) **The Human Phenotype Ontology project: Linking molecular biology and disease through phenotype data**. Nucleic Acids Res., 42, D966–D974.
-- Landrum, M. J. et al. (2016) **ClinVar: public archive of interpretations of clinically relevant variants**. Nucleic Acids Res., 44, D862–D868.
-- Orchard, S. et al. (2014) **The MIntAct project--IntAct as a common curation platform for 11 molecular interaction databases**. Nucleic Acids Res., 42, D358–D363.
-- Rolland, T. et al. (2014) **A Proteome-Scale Map of the Human Interactome Network**. Cell, 159, 1212–1226.
-- Smith, C. L., Goldsmith, C.-A. W. and Eppig, J. T. (2005) **The Mammalian Phenotype Ontology as a tool for annotating, analyzing and comparing phenotypic information**. Genome Biol., 6, R7.
-- The UniProt Consortium (2014) **Activities at the Universal Protein Resource (UniProt)**. Nucleic Acids Res., 42, D191–D198.
+- Amberger, J. S. et al. (2015) OMIM.org: Online Mendelian Inheritance in Man (OMIM), an online catalog of human genes and genetic disorders. Nucleic Acids Res., 43, 789–798.
+- Bult, C. J. et al. (2016) Mouse genome database 2016. Nucleic Acids Res., 44, D840–D847.
+- Chatr-Aryamontri, A. et al. (2015) The BioGRID interaction database: 2015 update. Nucleic Acids Res., 43, D470–D478.
+- Das, J. and Yu, H. (2012) HINT: High-quality protein interactomes and their applications in understanding human disease. BMC Syst. Biol., 6(1), 92.
+- Hoehndorf, R. et al. (2015) Analysis of the human diseasome reveals phenotype modules across common, genetic, and infectious diseases. Sci. Rep., 5, 10888.
+- Keshava Prasad, T. S. et al. (2009) Human Protein Reference Database-2009 update. Nucleic Acids Res., 37, D767–D772.
+- Kibbe, W. A. et al. (2015) Disease Ontology 2015 update: an expanded and updated database of human diseases for linking biomedical knowledge through disease data. Nucleic Acids Res., 43, D1071–D1078.
+- Köhler, S. et al. (2014) The Human Phenotype Ontology project: Linking molecular biology and disease through phenotype data. Nucleic Acids Res., 42, D966–D974.
+- Landrum, M. J. et al. (2016) ClinVar: public archive of interpretations of clinically relevant variants. Nucleic Acids Res., 44, D862–D868.
+- Orchard, S. et al. (2014) The MIntAct project--IntAct as a common curation platform for 11 molecular interaction databases. Nucleic Acids Res., 42, D358–D363.
+- Rolland, T. et al. (2014) A Proteome-Scale Map of the Human Interactome Network. Cell, 159, 1212–1226.
+- Smith, C. L., Goldsmith, C.-A. W. and Eppig, J. T. (2005) The Mammalian Phenotype Ontology as a tool for annotating, analyzing and comparing phenotypic information. Genome Biol., 6, R7.
+- The UniProt Consortium (2014) Activities at the Universal Protein Resource (UniProt). Nucleic Acids Res., 42, D191–D198.
 
 
 
