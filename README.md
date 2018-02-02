@@ -42,7 +42,7 @@ PPI data were downloaded from four databases: BioGRID (version 3.4.131), HI-II-1
 
 PhenoRank reference
 ----------
-Cornish, A.J., David, A. and Sternberg M.J.E. PhenoRank: reducing study bias in gene prioritisation through simulation. Submitted. 
+[Cornish, A.J., David, A. and Sternberg M.J.E. PhenoRank: reducing study bias in gene prioritisation through simulation. Bioinformatics (2018).][2] 
 
 
 
@@ -69,3 +69,4 @@ Help
 If you need any further help, or have any comments or queries, please contact [Alex J. Cornish][1].
 
 [1]: http://alexjcornish.com/
+[2]: https://doi.org/10.1093/bioinformatics/bty028
