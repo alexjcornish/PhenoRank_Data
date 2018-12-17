@@ -42,7 +42,7 @@ PPI data were downloaded from four databases: BioGRID (version 3.4.131), HI-II-1
 
 PhenoRank reference
 ----------
-[Cornish, A.J., David, A. and Sternberg M.J.E. PhenoRank: reducing study bias in gene prioritisation through simulation. Bioinformatics (2018).][2] 
+[Cornish, A.J., David, A. and Sternberg M.J.E. PhenoRank: reducing study bias in gene prioritisation through simulation. Bioinformatics (2018).][1] 
 
 
 
@@ -62,11 +62,4 @@ References for sources of data used in PhenoRank
 - Smith, C. L., Goldsmith, C.-A. W. and Eppig, J. T. (2005) The Mammalian Phenotype Ontology as a tool for annotating, analyzing and comparing phenotypic information. Genome Biol., 6, R7.
 - The UniProt Consortium (2014) Activities at the Universal Protein Resource (UniProt). Nucleic Acids Res., 42, D191–D198.
 
-
-
-Help
-----------
-If you need any further help, or have any comments or queries, please contact [Alex J. Cornish][1].
-
-[1]: http://alexjcornish.com/
-[2]: https://doi.org/10.1093/bioinformatics/bty028
+[1]: https://doi.org/10.1093/bioinformatics/bty028
