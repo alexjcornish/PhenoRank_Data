@@ -5,6 +5,12 @@ PhenoRank data
 Data sets
 ----------
 
+##### `disease_classes.tsv`
+Associations between diseases, represented by OMIM IDs (**OMIM**), and DO terms (**DO**) where available, and their disease class (**CLASS**). Included is both the DO term used to define the class (**CLASS**) and the name of the class (**CLASS_NAME**).
+
+If an OMIM ID could not be mapped to a DO term, then it is not possible to assign a disease class, and this cell is therefore marked NA. 
+
+
 ##### `disease_phenotype.tsv`
 Associations between diseases (represented by OMIM IDs, **Disease_ID**) and characteristic phenotypes (represented by HPO and MP terms. **Phenotype_ID**).
 
